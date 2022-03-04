@@ -1,0 +1,3 @@
+[submodule "itacademy1"]
+	path = itacademy1
+	url = git@github.com:orboan/itacademy1.git
